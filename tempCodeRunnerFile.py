@@ -1,0 +1,1 @@
+img = cv2.imread('opencv-4.x\samples\data\lena.jpg' ,1)
